@@ -96,7 +96,6 @@ h3 {
   margin: 0.7rem 0 0.2rem 0;
 }
 input:focus {
-  background: rgba(97, 97, 201, 0.267);
   outline-color: blue;
 }
 
